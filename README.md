@@ -12,7 +12,7 @@
 💬 Ask me about how to learn a language
 
 ## 🛠 Skills
-Java, python, C++, C, Html, Css 
+Java, python, C++, C, Html, Css, Git, Linux
 
 
 
