@@ -3,7 +3,7 @@
 
 # Hi, I'm Ritik Ranjan! 👋
 
-🧠 I'm currently learning Java Spring Framework
+🧠 I'm currently learning Javascript
 
 👯‍♀️ I'm looking to collaborate on Open Source Projects
 
