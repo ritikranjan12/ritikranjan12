@@ -3,8 +3,11 @@
 
 ## GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ritikranjan12&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikranjan12&theme=tokyonight&hide=TeX)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikranjan12&theme=tokyonight&hide=TeX&hide=PowerShell)
+
 ## Random Joke Generator
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
