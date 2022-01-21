@@ -10,6 +10,7 @@
 🤔 I'm looking for help with contibuting open source project
 
 💬 Ask me about how to learn a language
+![GitHub Contributors Image](https://contrib.rocks/image?repo=ritikranjan12/Jarvis)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikranjan12&theme=blue-green)
 
