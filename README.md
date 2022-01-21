@@ -9,3 +9,5 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ## 5. Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ritikranjan12)
+
+[![Ritik's github stats](https://github-readme-stats.vercel.app/api?username=ritikranjan12)](https://github.com/ritikranjan12/github-readme-stats)
