@@ -11,7 +11,6 @@
 
 💬 Ask me about how to learn a language
 
-
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikranjan12&theme=blue-green)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ritikranjan12&show_icons=true)
