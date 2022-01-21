@@ -1,4 +1,5 @@
-
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 ## 🚀 About Me
 
 # Hi, I'm Ritik Ranjan! 👋 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-ranjan-353568201/)
