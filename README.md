@@ -2,7 +2,7 @@
 # Hi, I'm Ritik Ranjan! 👋 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-ranjan-353568201/)
 
 ## GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ritikranjan12&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ritikranjan12&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikranjan12&theme=tokyonight&hide=TeX&hide=PowerShell)
 
