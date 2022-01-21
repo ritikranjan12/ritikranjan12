@@ -5,8 +5,6 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ritikranjan12&show_icons=true)
 ## 2. Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikranjan12&theme=blue-green)
-## 3. Contributors Badge
-![Your Repository's Stats](https://contrib.rocks/image?repo=ritikranjan12/Java_DSA)
 ## 4. Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ## 5. Profile View Counter
