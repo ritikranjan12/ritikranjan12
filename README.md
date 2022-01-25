@@ -16,8 +16,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikranjan12&theme=tokyonight&hide=TeX)
 
-## Random Joke Generator
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
