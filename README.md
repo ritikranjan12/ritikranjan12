@@ -6,7 +6,7 @@
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>&ensp;
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="50px">, I'm [Ritik Ranjan](https://ritik-ranjan.netlify.app/)! 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="50px">, I'm [Ritik Ranjan](https://coderhunts.com/)! 
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ritikranjan12&theme=dracula&row=1)](https://github.com/ritikranjan12/github-profile-trophy)
